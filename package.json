@@ -14,7 +14,7 @@
   "author": "Joshua Lanese <froastj@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "bluebird": "^3.4.6",
+    "bluebird": "^3.5.1",
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
     "roblox-js": "^4.0.3",
