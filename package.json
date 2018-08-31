@@ -20,6 +20,7 @@
     "roblox-js": "^4.0.3",
     "validator": "^6.1.0"
     "noblox.js": "^4.1.1"
+    
   },
   "bugs": {
     "url": "https://github.com/sentanos/roblox-js-server/issues"
